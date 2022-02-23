@@ -26,7 +26,7 @@
 ## 算法编程
 
 1. [剑指offer](https://leetcode-cn.com/problem-list/xb9nqhhg/)
-1. 排序算法？背包问题？
+1. [LeetCode刷题分类手册第5版 3](./assets/LeetCode刷题分类手册第5版 3.pdf)
 
 ## 概率/智力题
 
