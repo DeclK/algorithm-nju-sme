@@ -26,7 +26,7 @@
 ## 算法编程
 
 1. [剑指offer](https://leetcode-cn.com/problem-list/xb9nqhhg/)
-1. [LeetCode刷题分类手册第5版 3](./assets/LeetCode刷题分类手册第5版 3.pdf)
+1. [LeetCode刷题分类手册第5版 3](https://github.com/DeclK/algorithm-nju-sme/blob/master/assets/LeetCode%E5%88%B7%E9%A2%98%E5%88%86%E7%B1%BB%E6%89%8B%E5%86%8C%E7%AC%AC5%E7%89%88%203.pdf)
 
 ## 概率/智力题
 
