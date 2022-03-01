@@ -23,7 +23,7 @@
 ## 深度学习基础
 
 1. [github-DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
-1. [👍网盘-百面机器学习](https://pan.baidu.com/s/1gQl_ax90KxNwFUE9a5qjHA?pwd=CHKK )
+1. 👍[网盘-百面机器学习](https://pan.baidu.com/s/1gQl_ax90KxNwFUE9a5qjHA?pwd=CHKK )
 
 ## 算法编程
 
