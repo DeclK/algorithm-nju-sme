@@ -23,7 +23,7 @@
 ## 深度学习基础
 
 1. [github-DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
-1. [👍网盘-百面机器学习](https://pan.baidu.com/s/1gQl_ax90KxNwFUE9a5qjHA?pwd=CHKK )
+1. 👍[网盘-百面机器学习](https://pan.baidu.com/s/1gQl_ax90KxNwFUE9a5qjHA?pwd=CHKK )
 
 ## 算法编程
 
@@ -42,4 +42,5 @@
 
 ## 招聘官网
 
-[腾讯](https://join.qq.com/post.html)	[华为](https://career.huawei.com/reccampportal/portal5/index.html)	[阿里](https://talent.alibaba.com/)	[字节](https://jobs.bytedance.com/)	[美团](https://campus.meituan.com/)	[百度](https://talent.baidu.com/external/baidu/index.html)	[快手](https://zhaopin.kuaishou.cn/recruit/e/#/official/index/)	[京东](https://zhaopin.jd.com/home)	[讯飞](https://campus.iflytek.com/)	[商汤](https://www.sensetime.com/cn/join-us)	[旷视](https://megvii.com/join_us)	[中兴](https://job.zte.com.cn/cn/)	[蔚来](https://campus.nio.com/#/)	[微软](https://www.microsoft.com/zh-cn/ard/recruitment/)	[大疆](https://we.dji.com/zh-CN/)	[网易](https://hr.163.com/)	[拼多多](https://www.pinduoduo.com/)	[小红书](https://job.xiaohongshu.com/)	[oppo](https://career.oppo.com/#/index)	[bilibili](https://www.bilibili.com/blackboard/campus/activity-campus2019.html)
+[腾讯](https://join.qq.com/post.html)	[华为](https://career.huawei.com/reccampportal/portal5/index.html)	[阿里](https://talent.alibaba.com/)	[字节](https://jobs.bytedance.com/)	[美团](https://campus.meituan.com/)	[百度](https://talent.baidu.com/external/baidu/index.html)	[快手](https://zhaopin.kuaishou.cn/recruit/e/#/official/index/)	[京东](https://zhaopin.jd.com/home)	[讯飞](https://campus.iflytek.com/)	[商汤](https://www.sensetime.com/cn/join-us)	[旷视](https://megvii.com/join_us)	[中兴](https://job.zte.com.cn/cn/)	[蔚来](https://campus.nio.com/#/)	[微软](https://www.msra.cn/zh-cn/jobs)	[大疆](https://we.dji.com/zh-CN/)	[网易](https://hr.163.com/)	[拼多多](https://www.pinduoduo.com/)	[小红书](https://job.xiaohongshu.com/)	[oppo](https://career.oppo.com/#/index)	[bilibili](https://www.bilibili.com/blackboard/campus/activity-campus2019.html)
+
