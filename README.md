@@ -40,6 +40,10 @@
 1. [CSDN-python基础问题](https://blog.csdn.net/weixin_30662011/article/details/98505273)
 1. C++？
 
+## 内推
+
+[汇总](https://github.com/DeclK/algorithm-nju-sme/blob/master/assets/%E5%86%85%E6%8E%A8.md)
+
 ## 招聘官网
 
 [腾讯](https://join.qq.com/post.html)	[华为](https://career.huawei.com/reccampportal/portal5/index.html)	[阿里](https://talent.alibaba.com/)	[字节](https://jobs.bytedance.com/)	[美团](https://campus.meituan.com/)	[百度](https://talent.baidu.com/external/baidu/index.html)	[快手](https://zhaopin.kuaishou.cn/recruit/e/#/official/index/)	[京东](https://zhaopin.jd.com/home)	[讯飞](https://campus.iflytek.com/)	[商汤](https://www.sensetime.com/cn/join-us)	[旷视](https://megvii.com/join_us)	[中兴](https://job.zte.com.cn/cn/)	[蔚来](https://campus.nio.com/#/)	[微软](https://www.msra.cn/zh-cn/jobs)	[大疆](https://we.dji.com/zh-CN/)	[网易](https://hr.163.com/)	[拼多多](https://www.pinduoduo.com/)	[小红书](https://job.xiaohongshu.com/)	[oppo](https://career.oppo.com/#/index)	[bilibili](https://www.bilibili.com/blackboard/campus/activity-campus2019.html)
