@@ -47,7 +47,7 @@
 
 ## 面经
 
-[汇总]
+[汇总](https://github.com/DeclK/algorithm-nju-sme/blob/master/assets/%E9%9D%A2%E7%BB%8F.md)
 
 ## 招聘官网
 
