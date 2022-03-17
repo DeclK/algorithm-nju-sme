@@ -39,6 +39,7 @@
 ## 编程语言相关
 
 1. [CSDN-python基础问题](https://blog.csdn.net/weixin_30662011/article/details/98505273)
+1. 👍[牛客-python相关](https://blog.nowcoder.net/n/bfaa731008c1471899d20c676d7fd676)
 1. C++？
 
 ## 内推
