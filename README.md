@@ -1,5 +1,9 @@
 # 2022 算法岗实习资料汇总
 
+## 面经
+
+😎[汇总](https://github.com/DeclK/algorithm-nju-sme/blob/master/assets/%E9%9D%A2%E7%BB%8F.md)
+
 ## 文章/视频
 
 1. 👍[知乎-计算机视觉算法工程师-秋招面经](https://zhuanlan.zhihu.com/p/399813916)
@@ -45,10 +49,6 @@
 ## 内推
 
 [汇总](https://github.com/DeclK/algorithm-nju-sme/blob/master/assets/%E5%86%85%E6%8E%A8.md)
-
-## 面经
-
-[汇总](https://github.com/DeclK/algorithm-nju-sme/blob/master/assets/%E9%9D%A2%E7%BB%8F.md)
 
 ## 招聘官网
 
